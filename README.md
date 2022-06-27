@@ -1,7 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-003 : Parallax Website (HC-03)
+#  Parallax Website
 
 ## Description
 Project aims to create parallax website.
@@ -80,6 +77,15 @@ Build a Landing that is functionally similar to this: [Parallax Website](https:/
 
 -  [Images](./img)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me)](https://git.io/typing-svg)
+
+<p align="left">
+<a href="https://codepen.io/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://twitter.com/FuatSevinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fuatsevinc66/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+</p>
+- This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website</a>
 
 <center> ⌛ Happy Coding  ✍ </center>
 
